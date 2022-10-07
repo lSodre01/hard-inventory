@@ -1,0 +1,9 @@
+Processador: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+Memoria: 16953425920
+OS: win32
+Processador: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+Memoria: 15.789108276367188
+OS: win32
+Processador: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+Memoria: 16
+OS: win32
